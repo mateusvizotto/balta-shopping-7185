@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
-      theme: darkYellowTheme(),
+      theme: ligthTheme(),
       home: DefaultTabController(
         length: 3,
         child: TabsPage(),
