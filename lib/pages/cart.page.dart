@@ -135,7 +135,7 @@ Widget productItem(context) {
                       width: 40,
                       alignment: Alignment.center,
                       child: FlatButton(
-                        child: Text("+"),
+                        child: Text("-"),
                         onPressed: () => {},
                       ),
                     ),
@@ -148,7 +148,7 @@ Widget productItem(context) {
                       width: 40,
                       alignment: Alignment.center,
                       child: FlatButton(
-                        child: Text("1"),
+                        child: Text("+"),
                         onPressed: () => {},
                       ),
                     ),
